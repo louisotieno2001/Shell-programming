@@ -1,0 +1,4 @@
+#!/bin/bash
+awk '{for(a=0;a<$1;a++) print $2}' infile
+
+
