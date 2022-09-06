@@ -1,0 +1,3 @@
+#!bin/bash
+p= "a*/"
+echo "{$p}"
